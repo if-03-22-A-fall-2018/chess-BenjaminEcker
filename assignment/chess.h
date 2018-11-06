@@ -10,3 +10,4 @@
  * Basic chess functions.
  * ----------------------------------------------------------
  */
+ typedef struct ChessSquare ChessBoard[8][8];
